@@ -9,10 +9,10 @@ function returnTrue() {
     return true;
 }
 
-console.log(returnFalse() && returnTrue());
-console.log(returnTrue() && returnFalse());
-console.log(returnTrue() || returnFalse());
-console.log(returnFalse() || returnTrue());
+// console.log(returnFalse() && returnTrue());
+// console.log(returnTrue() && returnFalse());
+// console.log(returnTrue() || returnFalse());
+// console.log(returnFalse() || returnTrue());
 
 // 단락 평가 활용 사례
 function printName(person) {
